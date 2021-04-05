@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kailh_big_series)(type KiCad)(uri C:/Users/lfgab/Documents/GitHub/kailh_big_series.pretty)(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri C:/Users/lfgab/Documents/Keyboards/Footprints.pretty)(options "")(descr ""))
+)
